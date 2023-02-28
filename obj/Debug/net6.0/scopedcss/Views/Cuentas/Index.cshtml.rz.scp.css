@@ -1,0 +1,15 @@
+.accordion-cuentas button[b-05jcn8n5mf] {
+    color: black !important;
+    font-size: 20px;
+}
+
+    .accordion-cuentas button > span[b-05jcn8n5mf] {
+        display: flex;
+        justify-content: space-between;
+        width: 100%;
+    }
+
+.accordion-cuentas ul li[b-05jcn8n5mf] {
+    display: flex;
+    justify-content: space-between;
+}
