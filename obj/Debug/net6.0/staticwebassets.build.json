@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "bQ58SxvD+620h7zogVqec3PtcNydGKQk8D9uvEcOu8Q=",
+  "Hash": "wUCjuxHMB1cnQt4W2mkZsQPphpIOSwBelzFaIGNOCh4=",
   "Source": "ManejoPresupuesto",
   "BasePath": "_content/ManejoPresupuesto",
   "Mode": "Default",
@@ -100,6 +100,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\FelipeReactJS\\Introduction\\ManejoPresupuesto\\ManejoPresupuesto\\wwwroot\\js\\FormularioTransacion.js",
+      "SourceId": "ManejoPresupuesto",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\FelipeReactJS\\Introduction\\ManejoPresupuesto\\ManejoPresupuesto\\wwwroot\\",
+      "BasePath": "_content/ManejoPresupuesto",
+      "RelativePath": "js/FormularioTransacion.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\FormularioTransacion.js"
     },
     {
       "Identity": "C:\\FelipeReactJS\\Introduction\\ManejoPresupuesto\\ManejoPresupuesto\\wwwroot\\js\\site.js",
